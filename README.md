@@ -1,2 +1,1 @@
-# RTSP
-# TSP
+# Simple React Typescript project
